@@ -1,0 +1,8 @@
+Django==1.9.6
+django-crispy-forms==1.6.0
+django-object-actions==0.8.2
+django-suit==0.2.18
+djangorestframework==3.3.3
+djoser==0.4.3
+requests==2.10.0
+wheel==0.26.0
